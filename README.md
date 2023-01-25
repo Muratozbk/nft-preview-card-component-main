@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/28b27cb1-31e8-4d98-ab21-1595dd98677e/deploy-status)](https://app.netlify.com/sites/mrtzbk-nft-preview-card/deploys)
+
+## Link of the project: https://mrtzbk-nft-preview-card.netlify.app/
 # Frontend Mentor - NFT preview card component
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
